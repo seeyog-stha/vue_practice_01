@@ -15,6 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/template">template</RouterLink>
         <RouterLink to="/reactive">reactive</RouterLink>
+        <RouterLink to="/computed">computed</RouterLink>
       </nav>
     </div>
   </header>

@@ -25,7 +25,6 @@ const {id} = obj
 </script>
 <template>
     <main>
-
         <button @click="increments">inc</button>
         <button @click="testincrease">inc test</button>
         <button @click="reactincrease">inc react</button>
